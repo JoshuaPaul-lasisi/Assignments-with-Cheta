@@ -1,0 +1,5 @@
+Superstore Analysis Notebook
+Purpose: Implement the three project questions you listed:
+1) Forecast future sales by product category/sub_category/region
+2) Predict customer churn (classification)
+3) Estimate how discounting affects profit margins (regression/causal)
