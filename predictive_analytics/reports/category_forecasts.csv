@@ -1,0 +1,37 @@
+ds,yhat,group
+2017-12-31,18203.211112439032,{'category': 'Furniture'}
+2018-01-31,7344.814613079447,{'category': 'Furniture'}
+2018-02-28,22757.768440107222,{'category': 'Furniture'}
+2018-03-31,14334.780194794972,{'category': 'Furniture'}
+2018-04-30,8754.090492657806,{'category': 'Furniture'}
+2018-05-31,13152.16305769058,{'category': 'Furniture'}
+2018-06-30,22739.124541169553,{'category': 'Furniture'}
+2018-07-31,14142.954845039283,{'category': 'Furniture'}
+2018-08-31,33818.54022818884,{'category': 'Furniture'}
+2018-09-30,21260.736729119973,{'category': 'Furniture'}
+2018-10-31,32630.376152500867,{'category': 'Furniture'}
+2018-11-30,22717.599926644394,{'category': 'Furniture'}
+2017-12-31,6786.265013438171,{'category': 'Office Supplies'}
+2018-01-31,19866.501540877372,{'category': 'Office Supplies'}
+2018-02-28,24466.146363592437,{'category': 'Office Supplies'}
+2018-03-31,23333.083331945298,{'category': 'Office Supplies'}
+2018-04-30,10427.86947125513,{'category': 'Office Supplies'}
+2018-05-31,18827.242246041984,{'category': 'Office Supplies'}
+2018-06-30,12344.540866253119,{'category': 'Office Supplies'}
+2018-07-31,25076.855284404413,{'category': 'Office Supplies'}
+2018-08-31,36172.36727589732,{'category': 'Office Supplies'}
+2018-09-30,18696.391329749244,{'category': 'Office Supplies'}
+2018-10-31,47958.01761874659,{'category': 'Office Supplies'}
+2018-11-30,15150.68639629832,{'category': 'Office Supplies'}
+2017-12-31,4557.354194114818,{'category': 'Technology'}
+2018-01-31,22203.993260113348,{'category': 'Technology'}
+2018-02-28,25313.653070233682,{'category': 'Technology'}
+2018-03-31,23767.49261523561,{'category': 'Technology'}
+2018-04-30,11519.935657322501,{'category': 'Technology'}
+2018-05-31,17145.97009174613,{'category': 'Technology'}
+2018-06-30,25108.13856870615,{'category': 'Technology'}
+2018-07-31,37202.312436308515,{'category': 'Technology'}
+2018-08-31,38527.6295278525,{'category': 'Technology'}
+2018-09-30,863.6238539999067,{'category': 'Technology'}
+2018-10-31,35569.28739431199,{'category': 'Technology'}
+2018-11-30,56263.13214458103,{'category': 'Technology'}
